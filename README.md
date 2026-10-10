@@ -1,1 +1,3 @@
-Specializing in technical debt, source archeology, and simple solutions. Send weird bugs to the email address linked on my personal site.
+Specializing in technical debt, source archeology, and simple solutions. Send weird bugs to the email address linked on my personal site. 
+
+Profile pic hand-made by [The Iconfactory](https://iconfactory.com) based on a photo.
